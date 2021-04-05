@@ -1,0 +1,23 @@
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "quick.db": "^7.1.2",
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.2",
+    "parse-ms": "^2.1.0",
+    "random-number-csprng": "^1.0.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-superfetch": "^0.1.11",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.4.5"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT"
+}
