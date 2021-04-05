@@ -6,7 +6,7 @@
  - It works with the prefix you set! It has a premium system!
 
 #### Made by: `Ronnie`, `zMelihStrqfe`
-#### YouTube channels: **[Ronnie](https://www.youtube.com/channel/UC9HFT7vVnIgf_w9kr41OIuA)**, **[zMelihStrqfe](https://www.youtube.com/zMelihStrqfe)**
+#### YouTube channels: **[ArchexKaan](https://www.youtube.com/channel/UC9HFT7vVnIgf_w9kr41OIuA)**, **[ArchexMelih](https://www.youtube.com/zMelihStrqfe)**
 #### Discord server: **[click!](https://discord.gg/MgmHyg7Gfu)**
 
 # TÜRKÇE README.md:
@@ -16,6 +16,6 @@
  - Her şey hazır!
  - Belirlediğiniz önek ile çalışır! Premium bir sistemi var!
 
-#### Yapımcılar: `Ronnie`, `zMelihStrqfe`
-#### YouTube kanallarımız: **[Ronnie](https://www.youtube.com/channel/UC9HFT7vVnIgf_w9kr41OIuA)**, **[zMelihStrqfe](https://www.youtube.com/zMelihStrqfe)**
+#### Yapımcılar: `ArchexKaan`, `ArchexMelih`
+#### YouTube kanallarımız: **[ArchexKaan](https://www.youtube.com/channel/UC9HFT7vVnIgf_w9kr41OIuA)**, **[ArchexMelih](https://www.youtube.com/zMelihStrqfe)**
 #### Discord sunucumuz: **[tıkla!](https://discord.gg/MgmHyg7Gfu)**
